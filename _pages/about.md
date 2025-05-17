@@ -25,7 +25,7 @@ Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong K
 - *2025.04*: &nbsp;🎉🎉 Our paper *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation* has been accepted by IJCAI 2025.
 - *2025.03*: &nbsp;🎉🎉 Our paper *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation* has been accepted by SIGIR 2025.
 - *2024.11*: &nbsp;🎉🎉 Our paper *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems* has been accepted by KDD* 2025.
-- *2024.11*: &nbsp;🎉🎉 I am awarded the Outstanding Academic Performance Award (**Top 1 Student**) and Outstanding Research Project Award by the Department of Data Science at City University of Hong Kong.
+- *2024.11*: &nbsp;🎉🎉 I am awarded the Outstanding Academic Performance Award (***Top 1 Student***) and Outstanding Research Project Award by the Department of Data Science at City University of Hong Kong.
 - *2024.07*: &nbsp;🎉🎉 Our paper *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems* has been accepted by Recsys 2024.
 - *2024.06*: &nbsp;🎉🎉 I am awarded Master of Science in Data Science with Distinction.
 
