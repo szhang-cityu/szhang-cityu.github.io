@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong Kong under the supervision of **Prof. Xiangyu Zhao**. During his MSc. study, his research focus on High Performance Recommender Systems, Neural Architecture Search, Model Compression and Large Language Models. Prior to his master study, he received his bachelor’s degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. Sheng Zhang is currently working as an Assistant Engineer at the High Magnetic Field Laboratory of the Chinese Academy of Sciences. His work primarily focuses on the application of large language models and data-driven optimization of absorbing materials, leveraging machine learning to empower scientific research.
+Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong Kong under the supervision of **Prof. Xiangyu Zhao**. During his MSc. study, his research focused on High Performance Recommender Systems, Neural Architecture Search, Model Compression and Large Language Models. Prior to his master's study, he received his bachelor’s degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. Sheng Zhang is currently working as an Assistant Engineer at the High Magnetic Field Laboratory of the Chinese Academy of Sciences. His work primarily focuses on the application of large language models and data-driven optimization of absorbing materials, leveraging machine learning to empower scientific research.
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our paper FLUID-MMRec has been accepted by KDD 2025.
+- *2025.05*: &nbsp;🎉🎉 Our paper FLUID-MMRec has been accepted by KDD 2025.
 - *2025.04*: &nbsp;🎉🎉 Our paper DANCE has been accepted by IJCAI 2025.
-- *2025.03*: &nbsp;🎉🎉 Our paper STAR-Rec has been accepted by SIGIR 2025.
-- *2024.11*: &nbsp;🎉🎉 Our paper GLINT-RU has been accepted by KDD 2025.
+- *2025.03*: &nbsp;🎉🎉 Our paper *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation* has been accepted by SIGIR 2025.
+- *2024.11*: &nbsp;🎉🎉 Our paper *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems has been accepted by KDD* 2025.
 - *2024.10*: &nbsp;🎉🎉 I am awarded the Outstanding Academic Performance Award (Top 1 Student) and Outstanding Research Project Award by the Department of Data Science at City University of Hong Kong.
-- *2024.07*: &nbsp;🎉🎉 Our paper DNS-Rec has been accepted by Recsys 2024. 
+- *2024.07*: &nbsp;🎉🎉 Our paper *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems* has been accepted by Recsys 2024. 
 
 # 📝 Publications 
 
