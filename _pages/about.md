@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong Kong under the supervision of **Prof. Xiangyu Zhao**. During his MSc. study, his research focus on High Performance Recommender Systems, Neural Architecture Search, Model Compression and Large Language Models. Prior to his master study, he received his bachelor’s degrees from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. Sheng Zhang is currently working as an Assistant Engineer at the High Magnetic Field Laboratory of the Chinese Academy of Sciences. His work primarily focuses on the application of large language models and data-driven optimization of absorbing materials, leveraging machine learning to empower scientific research.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 Our paper FLUID-MMRec has been accepted by KDD 2025.
+- *2025.04*: &nbsp;🎉🎉 Our paper DANCE has been accepted by IJCAI 2025.
+- *2025.03*: &nbsp;🎉🎉 Our paper STAR-Rec has been accepted by SIGIR 2025.
+- *2024.11*: &nbsp;🎉🎉 Our paper GLINT-RU has been accepted by KDD 2025.
+- *2024.10*: &nbsp;🎉🎉 I am awarded the Outstanding Academic Performance Award (Top 1 Student) and Outstanding Research Project Award by the Department of Data Science at City University of Hong Kong.
+- *2024.07*: &nbsp;🎉🎉 Our paper DNS-Rec has been accepted by Recsys 2024. 
 
 # 📝 Publications 
 
