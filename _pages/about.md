@@ -44,7 +44,7 @@ Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong K
 
 # 📖 Educations
 - 2023.09 - 2024.06, M.Sc. in Data Science, City University of Hong Kong, Hong Kong SAR, China. Supervisor: ***Prof. Xiangyu Zhao***
-- 2019.09 - 2023.06, B.S. in Data Science and Big Data Technology, Department of Mathematical Sciences, University of Electronic Science and Technology of China, Chengdu, China. Supervisor: ***Prof. Jie Huang***
+- 2019.09 - 2023.06, B.Sc. in Data Science and Big Data Technology, Department of Mathematical Sciences, University of Electronic Science and Technology of China, Chengdu, China. Supervisor: ***Prof. Jie Huang***
 
 # 💻 Work Experience
 - *2024.07 - Now*, Assistant Engineer, High Magnetic Field Laboratory, Hefei Institutes of Physical Sciences, Chinese Academy of Sciences
