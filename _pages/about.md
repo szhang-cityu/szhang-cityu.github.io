@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong Kong under the supervision of **Prof. Xiangyu Zhao**. During his MSc. study, his research focused on High Performance Recommender Systems, Neural Architecture Search, Model Compression and Large Language Models. Prior to his master's study, he received his bachelor’s degree from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. Sheng Zhang is currently working as an Assistant Engineer at the High Magnetic Field Laboratory of the Chinese Academy of Sciences. His work primarily focuses on the application of large language models and data-driven optimization of absorbing materials, leveraging machine learning to empower scientific research.
+Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong Kong under the supervision of **Prof. Xiangyu Zhao**. During his MSc. study, his research focused on High Performance Recommender Systems, Neural Architecture Search, Model Compression and Large Language Models. Prior to his master's study, he received his bachelor’s degree from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. Sheng Zhang is currently working as an Assistant Engineer at the High Magnetic Field Laboratory of the Chinese Academy of Sciences. His work now primarily focuses on the application of large language models and data-driven optimization of absorbing materials, leveraging machine learning to empower scientific research.
 
 
 # 🔥 News
