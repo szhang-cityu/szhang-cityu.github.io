@@ -21,40 +21,30 @@ Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong K
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our paper FLUID-MMRec has been accepted by KDD 2025.
-- *2025.04*: &nbsp;🎉🎉 Our paper DANCE has been accepted by IJCAI 2025.
+- *2025.05*: &nbsp;🎉🎉 Our paper *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation* has been accepted by KDD 2025.
+- *2025.04*: &nbsp;🎉🎉 Our paper *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation* has been accepted by IJCAI 2025.
 - *2025.03*: &nbsp;🎉🎉 Our paper *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation* has been accepted by SIGIR 2025.
-- *2024.11*: &nbsp;🎉🎉 Our paper *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems has been accepted by KDD* 2025.
-- *2024.10*: &nbsp;🎉🎉 I am awarded the Outstanding Academic Performance Award (Top 1 Student) and Outstanding Research Project Award by the Department of Data Science at City University of Hong Kong.
-- *2024.07*: &nbsp;🎉🎉 Our paper *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems* has been accepted by Recsys 2024. 
+- *2024.11*: &nbsp;🎉🎉 Our paper *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems* has been accepted by KDD* 2025.
+- *2024.11*: &nbsp;🎉🎉 I am awarded the Outstanding Academic Performance Award (**Top 1 Student**) and Outstanding Research Project Award by the Department of Data Science at City University of Hong Kong.
+- *2024.07*: &nbsp;🎉🎉 Our paper *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems* has been accepted by Recsys 2024.
+- *2024.06*: &nbsp;🎉🎉 I am awarded Master of Science in Data Science with Distinction.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Sheng Zhang**, Maolin Wang, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining* (KDD) (***CCF-A***).
+- **Sheng Zhang**^, Maolin Wang^, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems* (RecSys) (***CCF-B***) \[***Oral***\]. (^equal contribution)
+- Maolin Wang^, **Sheng Zhang**^, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval* (***SIGIR***) (***CCF-A***). (^equal contribution)
+- Maolin Wang, Tianshuo Wei, **Sheng Zhang**, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. *In International Joint Conference on Artificial Intelligence* (***IJCAI***) (***CCF-A***).
+- Maolin Wang, Yutian Xiao, Binhao Wang, **Sheng Zhang**, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining* (***KDD***) (***CCF-A***).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Master of Science in Data Science Outstanding Research Project Award (2024.11)
+- Master of Science in Data Science Outstanding Academic Performance Award (2024.11)
+- Master of Science in Data Science with Distinction (2024.06)
+- Model Student Scholarship of UESTC for two consecutive years (2020 - 2021)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2023.09 - 2024.06, M.Sc. in Data Science, University of Electronic Science and Technology of China, Hong Kong SAR, China. Supervisor: ***Prof. Xiangyu Zhao***
+- 2019.09 - 2023.06, B.S. in Data Science and Big Data Technology, Department of Mathematical Sciences, University of Electronic Science and Technology of China, Chengdu, China. Supervisor: ***Prof. Jie Huang***
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Exxperience
+- *2024.07 - Now*, Assistant Engineer, High Magnetic Field Laboratory, Hefei Institutes of Physical Sciences, Chinese Academy of Sciences
