@@ -24,7 +24,7 @@ Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong K
 - *2025.05*: &nbsp;🎉🎉 Our paper *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation* is accepted by KDD 2025.
 - *2025.04*: &nbsp;🎉🎉 Our paper *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation* is accepted by IJCAI 2025.
 - *2025.03*: &nbsp;🎉🎉 Our paper *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation* is accepted by SIGIR 2025.
-- *2024.11*: &nbsp;🎉🎉 Our paper *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems* is accepted by KDD* 2025.
+- *2024.11*: &nbsp;🎉🎉 Our paper *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems* is accepted by KDD 2025.
 - *2024.11*: &nbsp;🎉🎉 I am awarded the Outstanding Academic Performance Award (***Top 1 Student***) and Outstanding Research Project Award by the Department of Data Science at City University of Hong Kong.
 - *2024.07*: &nbsp;🎉🎉 Our paper *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems* is accepted by Recsys 2024.
 - *2024.06*: &nbsp;🎉🎉 I am awarded Master of Science in Data Science with Distinction.
@@ -43,7 +43,7 @@ Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong K
 - Model Student Scholarship of UESTC for two consecutive years (2020 - 2021)
 
 # 📖 Educations
-- 2023.09 - 2024.06, M.Sc. in Data Science, University of Electronic Science and Technology of China, Hong Kong SAR, China. Supervisor: ***Prof. Xiangyu Zhao***
+- 2023.09 - 2024.06, M.Sc. in Data Science, City University of Hong Kong, Hong Kong SAR, China. Supervisor: ***Prof. Xiangyu Zhao***
 - 2019.09 - 2023.06, B.S. in Data Science and Big Data Technology, Department of Mathematical Sciences, University of Electronic Science and Technology of China, Chengdu, China. Supervisor: ***Prof. Jie Huang***
 
 # 💻 Work Exxperience
