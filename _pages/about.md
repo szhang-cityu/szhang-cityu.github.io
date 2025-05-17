@@ -43,7 +43,7 @@ Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong K
 - Model Student Scholarship of UESTC for two consecutive years (2020 - 2021)
 
 # 📖 Educations
-- 2023.09 - 2024.06, M.Sc. in Data Science, City University of Hong Kong, Hong Kong SAR, China. Supervisor: ***Prof. Xiangyu Zhao***
+- 2023.09 - 2024.06, M.Sc. in Data Science, Department of Data Science, City University of Hong Kong, Hong Kong SAR, China. Supervisor: ***Prof. Xiangyu Zhao***
 - 2019.09 - 2023.06, B.Sc. in Data Science and Big Data Technology, Department of Mathematical Sciences, University of Electronic Science and Technology of China, Chengdu, China. Supervisor: ***Prof. Jie Huang***
 
 # 💻 Work Experience
