@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong Kong under the supervision of **Prof. Xiangyu Zhao**. During his M.Sc. study, his research focused on High Performance Recommender Systems, Neural Architecture Search, Model Compression and Large Language Models. Prior to his master's study, he received his B.Sc. degree from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. Sheng Zhang is currently working as an Assistant Engineer at the High Magnetic Field Laboratory of the Chinese Academy of Sciences. His work now primarily focuses on the application of large language models and data-driven optimization of absorbing materials, leveraging machine learning to empower scientific research.
+Sheng Zhang is a Ph.D. student at City University of Hong Kong under the supervision of **Prof. Xiangyu Zhao**. His research focused on Large Language Models, High Performance Recommender Systems, Model Compression. Prior to his master's study, he received his M.Sc. degree at City University of Hong Kong under the guidance of **Prof. Xiangyu Zhao**, and received his B.Sc. degree from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. When working at the High Magnetic Field Laboratory of the Chinese Academy of Sciences, his research focused on the application of large language models and data-driven optimization of magnet array design. 
 
 
 # 🔥 News
@@ -43,8 +43,9 @@ Sheng Zhang was awarded the M.Sc. in Data Science from City University of Hong K
 - Model Student Scholarship of UESTC for two consecutive years (2020 - 2021)
 
 # 📖 Educations
+- 2025.09 - 2029.06, Ph.D. in Data Science, Department of Data Science, City University of Hong Kong, Hong Kong SAR, China. Supervisor: ***Prof. Xiangyu Zhao***
 - 2023.09 - 2024.06, M.Sc. in Data Science, Department of Data Science, City University of Hong Kong, Hong Kong SAR, China. Supervisor: ***Prof. Xiangyu Zhao***
 - 2019.09 - 2023.06, B.Sc. in Data Science and Big Data Technology, Department of Mathematical Sciences, University of Electronic Science and Technology of China, Chengdu, China. Supervisor: ***Prof. Jie Huang***
 
 # 💻 Work Experience
-- *2024.07 - Now*, Assistant Engineer, High Magnetic Field Laboratory, Hefei Institutes of Physical Sciences, Chinese Academy of Sciences
+- *2024.07 - 2025.07*, Assistant Engineer, High Magnetic Field Laboratory, Hefei Institutes of Physical Sciences, Chinese Academy of Sciences
