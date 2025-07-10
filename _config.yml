@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sheng Zhang"
-description              : "Research interests span Recommender Sytems, Large Language Models and AI for Materials"
+description              : "Research interests span Large Language Models, Recommender Sytems, Model Compression"
 repository               : "szhang-cityu/szhang-cityu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sheng Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Assistant Engineer at High Magnetic Field Laboratory, Hefei Institutes of Physical Sciences, Chinese Academy of Sciences"
+  bio              : "Ph.D. at Department of Data Science, City University of Hong Kong"
   location         : "Anhui, China"
   employer         :
   pubmed           : 
