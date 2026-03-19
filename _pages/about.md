@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sheng Zhang is a Ph.D. student at City University of Hong Kong under the supervision of **Prof. Xiangyu Zhao**. His research focused on Large Language Models, High Performance Recommender Systems, Model Compression. Prior to his master's study, he received his M.Sc. degree at City University of Hong Kong under the guidance of **Prof. Xiangyu Zhao**, and received his B.Sc. degree from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. When working at the High Magnetic Field Laboratory of the Chinese Academy of Sciences, his research focused on the application of large language models and data-driven optimization of magnet array design. 
-
+Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) under the supervision of **Prof. Xiangyu Zhao**. Prior to his master's study, he received his M.Sc. degree at City University of Hong Kong under the guidance of **Prof. Xiangyu Zhao**, and received his B.Sc. degree from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. When working at the High Magnetic Field Laboratory of the Chinese Academy of Sciences, his research focused on the application of large language models and data-driven optimization of magnet array design. Currently, his research focus on Large Language Model (LLM) Agents, High Performance Recommender Systems, and AI for Science. 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Our paper, *Embedding in recommender systems: A survey*, has been accepted by TOIS.
 - *2025.11*: &nbsp;🎉🎉 Our paper, *Renormalization Group Guided Tensor Network Structure Search*, has been accepted by AAAI 2026.
 - *2025.10*: &nbsp;🎉🎉 Our paper, *Embedding in Recommender Systems: A Survey* has been updated in Google Scholar.
 - *2025.05*: &nbsp;🎉🎉 Our paper *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation* is accepted by KDD 2025.
@@ -37,6 +37,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong under the supervi
 - Maolin Wang, **Sheng Zhang**, Ruocheng Guo, Wanyu Wang, Xuetao Wei, Zitao Liu, Hongzhi Yin, Yi Chang, Xiangyu Zhao. (2025). *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation*. In *International ACM SIGIR Conference on Research and Development in Information Retrieval* (***SIGIR***) (***CCF-A***).
 - Maolin Wang, Bowen Yu, **Sheng Zhang**, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2026). *Renormalization Group Guided Tensor Network Structure Search*. In Proceedings of the 40th AAAI Conference on Artificial Intelligence (***AAAI***) (***CCF-A***).
 - Maolin Wang, Tianshuo Wei, **Sheng Zhang**, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. *In International Joint Conference on Artificial Intelligence* (***IJCAI***) (***CCF-A***).
+- Maolin Wang, Xinjian Zhao, Wanyu Wang, **Sheng Zhang**, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in Recommender Systems: A Survey*. *ACM Transactions on Information Systems* (***TOIS***)(***CCF-A***)
 - Maolin Wang, Yutian Xiao, Binhao Wang, **Sheng Zhang**, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining* (***KDD***) (***CCF-A***).
 
 # 🎖 Honors and Awards
