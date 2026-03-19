@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sheng Zhang"
-description              : "Research interests span Large Language Models, Recommender Sytems, Model Compression"
+description              : "Research interests span LLM Agents, High Performance Recommender Systems, and AI for Science."
 repository               : "szhang-cityu/szhang-cityu.github.io"
 google_scholar_stats_use_cdn : true
 
