@@ -20,7 +20,7 @@ redirect_from:
 Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) under the supervision of **Prof. Xiangyu Zhao**. Prior to his master's study, he received his M.Sc. degree at City University of Hong Kong under the guidance of **Prof. Xiangyu Zhao**, and received his B.Sc. degree from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. When working at the High Magnetic Field Laboratory of the Chinese Academy of Sciences, his research focused on the application of large language models and data-driven optimization of magnet array design. Currently, his research focus on Large Language Model (LLM) Agents, High Performance Recommender Systems, and AI for Science. 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Our paper, *MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search*, has been accepted by TOIS.
+- *2026.04*: &nbsp;🎉🎉 Our paper, *MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search*, has been accepted by ACL 2026.
 - *2026.03*: &nbsp;🎉🎉 Our paper, *Embedding in recommender systems: A survey*, has been accepted by TOIS.
 - *2025.11*: &nbsp;🎉🎉 Our paper, *Renormalization Group Guided Tensor Network Structure Search*, has been accepted by AAAI 2026.
 - *2025.10*: &nbsp;🎉🎉 Our paper, *Embedding in Recommender Systems: A Survey* has been updated in Google Scholar.
