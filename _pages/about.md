@@ -45,7 +45,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 - Maolin Wang, Yutian Xiao, Binhao Wang, **Sheng Zhang**, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining* (***KDD***) (***CCF-A***).
 - Junyi Li, Xiaowei Qian, Yingyi Zhang, Wenlin Zhang, Guojing Li, **Sheng Zhang**, Xiao Han, Yichao Wang, Xiangyu Zhao. *Towards Pareto-Optimal Tool-Integrated Agents withPareto Ranking Policy Optimization*. *Forty-Third International Conference on Machine Learning* (***ICML Spotlight***)(***CCF-A***)
 
-# Tutorial
+# 🗨 Tutorial
 - Tutorial on Generative Recommendation: Foundations and Frontiers (https://github.com/Kuaishou-RecModel/Tri-Decoupled-GenRec) (***KDD 2026, CCF-A***).
 
 # 🎖 Honors and Awards
