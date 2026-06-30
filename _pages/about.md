@@ -34,7 +34,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 - *2024.07*: &nbsp;🎉🎉 Our paper *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems* is accepted by Recsys 2024.
 - *2024.06*: &nbsp;🎉🎉 I am awarded Master of Science in Data Science with Distinction.
 
-# 📝 Publications 
+# 📝 Publications
 - **Sheng Zhang**, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao. (2026) *MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search*. In *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics* (***ACL***)(***CCF-A***)
 - **Sheng Zhang**, Maolin Wang, Wanyu Wang, Jingtong Gao, Xiangyu Zhao, Yu Yang, Xuetao Wei, Zitao Liu, Tong Xu. (2025). *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems*. In *SIGKDD Conference on Knowledge Discovery and Data Mining* (***KDD***) (***CCF-A***).
 - **Sheng Zhang**, Maolin Wang, Yao Zhao, Chenyi Zhuang, Ruocheng Guo, Xiangyu Zhao et al. (2024). *DNS-Rec: Data-aware Neural Architecture Search for Recommender Systems*. In *ACM Conference on Recommender Systems* (***RecSys***) (***CCF-B***).
@@ -44,6 +44,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 - Maolin Wang, Xinjian Zhao, Wanyu Wang, **Sheng Zhang**, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in Recommender Systems: A Survey*. *ACM Transactions on Information Systems* (***TOIS***)(***CCF-A***)
 - Maolin Wang, Yutian Xiao, Binhao Wang, **Sheng Zhang**, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining* (***KDD***) (***CCF-A***).
 - Junyi Li, Xiaowei Qian, Yingyi Zhang, Wenlin Zhang, Guojing Li, **Sheng Zhang**, Xiao Han, Yichao Wang, Xiangyu Zhao. *Towards Pareto-Optimal Tool-Integrated Agents withPareto Ranking Policy Optimization*. *Forty-Third International Conference on Machine Learning* (***ICML Spotlight***)(***CCF-A***)
+- - **Sheng Zhang**, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao. *R$^2$-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search*. *arXiv preprint arXiv:2606.28566*.
 
 # 💬 Tutorial
 - Tutorial on Generative Recommendation: Foundations and Frontiers (https://github.com/Kuaishou-RecModel/Tri-Decoupled-GenRec) (***KDD 2026, CCF-A***).
