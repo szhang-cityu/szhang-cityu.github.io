@@ -44,7 +44,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 - Maolin Wang, Xinjian Zhao, Wanyu Wang, **Sheng Zhang**, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in Recommender Systems: A Survey*. *ACM Transactions on Information Systems* (***TOIS***)(***CCF-A***)
 - Maolin Wang, Yutian Xiao, Binhao Wang, **Sheng Zhang**, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining* (***KDD***) (***CCF-A***).
 - Junyi Li, Xiaowei Qian, Yingyi Zhang, Wenlin Zhang, Guojing Li, **Sheng Zhang**, Xiao Han, Yichao Wang, Xiangyu Zhao. *Towards Pareto-Optimal Tool-Integrated Agents withPareto Ranking Policy Optimization*. *Forty-Third International Conference on Machine Learning* (***ICML Spotlight***)(***CCF-A***)
-- - **Sheng Zhang**, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao. *R$^2$-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search*. *arXiv preprint arXiv:2606.28566*.
+- **Sheng Zhang**, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao. *R$^2$-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search*. *arXiv preprint arXiv:2606.28566*.
 
 # 💬 Tutorial
 - Tutorial on Generative Recommendation: Foundations and Frontiers (https://github.com/Kuaishou-RecModel/Tri-Decoupled-GenRec) (***KDD 2026, CCF-A***).
