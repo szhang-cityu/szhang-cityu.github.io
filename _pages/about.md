@@ -55,7 +55,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 - ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'2026 main track and reproducibility track).
 - ACM International Conference on Multimedia (MM'2026 main track)
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2026 AI for science track and datasets and benchmarks track).
-- International World Wide Web Conference （WWW'2026)
+- International World Wide Web Conference (WWW'2026)
 - AAAI Association for the Advanced Artificial Intelligence (AAAI’2026 main track).
 - IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
