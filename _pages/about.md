@@ -58,7 +58,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 - AAAI Association for the Advanced Artificial Intelligence (AAAI’2026 main track).
 - IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - Master of Science in Data Science Outstanding Research Project Award (2024.11)
 - Master of Science in Data Science Outstanding Academic Performance Award (2024.11)
 - Master of Science in Data Science with Distinction (2024.06)
