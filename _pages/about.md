@@ -49,6 +49,15 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 # 💬 Tutorial
 - Tutorial on Generative Recommendation: Foundations and Frontiers (https://github.com/Kuaishou-RecModel/Tri-Decoupled-GenRec) (***KDD 2026, CCF-A***).
 
+# ⛄ Services
+- AAAI Association for the Advanced Artificial Intelligence (AAAI'2027 main track).
+- ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'2026 main track and reproducibility track).
+- ACM International Conference on Multimedia (MM'2026 main track)
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26 AI for science track and datasets and benchmarks track).
+- International World Wide Web Conference （WWW'2026)
+- AAAI Association for the Advanced Artificial Intelligence (AAAI’2026 main track).
+- IEEE Transactions on Knowledge and Data Engineering (TKDE).
+
 # 🎖 Honors and Awards
 - Master of Science in Data Science Outstanding Research Project Award (2024.11)
 - Master of Science in Data Science Outstanding Academic Performance Award (2024.11)
