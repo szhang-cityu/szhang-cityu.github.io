@@ -50,6 +50,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 - Tutorial on Generative Recommendation: Foundations and Frontiers (https://github.com/Kuaishou-RecModel/Tri-Decoupled-GenRec) (***KDD 2026, CCF-A***).
 
 # ⛄ Services
+- **Student Committee of MLNLP** Community.
 - AAAI Association for the Advanced Artificial Intelligence (AAAI'2027 main track).
 - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'2027 AI for science track).
 - ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'2026 main track and reproducibility track).
