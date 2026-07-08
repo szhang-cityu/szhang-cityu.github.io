@@ -26,7 +26,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 - *2026.03*: &nbsp;🎉🎉 Our paper, *Embedding in recommender systems: A survey*, has been accepted by TOIS.
 - *2025.11*: &nbsp;🎉🎉 Our paper, *Renormalization Group Guided Tensor Network Structure Search*, has been accepted by AAAI 2026.
 - *2025.10*: &nbsp;🎉🎉 Our paper, *Embedding in Recommender Systems: A Survey* has been updated in Google Scholar.
-- *2025.05*: &nbsp;🎉🎉 Our paper *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation* is accepted by KDD 2025.
+- *2025.05*: &nbsp;🎉🎉 Our paper *FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation* is accepted by KDD 2025.
 - *2025.04*: &nbsp;🎉🎉 Our paper *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation* is accepted by IJCAI 2025.
 - *2025.03*: &nbsp;🎉🎉 Our paper *STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation* is accepted by SIGIR 2025.
 - *2024.11*: &nbsp;🎉🎉 Our paper *GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems* is accepted by KDD 2025.
@@ -42,7 +42,7 @@ Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) und
 - [C5] Maolin Wang, Bowen Yu, **Sheng Zhang**, Linjie Mi, Wanyu Wang, Yiqi Wang, Pengyue Jia, Xuetao Wei, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao. (2026). *Renormalization Group Guided Tensor Network Structure Search*. In Proceedings of the 40th AAAI Conference on Artificial Intelligence (***AAAI***) (***CCF-A***).
 - [C6] Maolin Wang, Tianshuo Wei, **Sheng Zhang**, Ruocheng Guo, Wangyu Wang, Shanshan Ye, Lixin Zou, Xuetao Wei, Xiangyu Zhao. (2025). *DANCE: Resource-Efficient Neural Architecture Search with Data-Aware and Continuous Adaptation*. *In International Joint Conference on Artificial Intelligence* (***IJCAI***) (***CCF-B***).
 - [C7] Maolin Wang, Xinjian Zhao, Wanyu Wang, **Sheng Zhang**, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao. *Embedding in Recommender Systems: A Survey*. *ACM Transactions on Information Systems* (***TOIS***)(***CCF-A***)
-- [C8] Maolin Wang, Yutian Xiao, Binhao Wang, **Sheng Zhang**, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FLUID-MMRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining* (***KDD***) (***CCF-A***).
+- [C8] Maolin Wang, Yutian Xiao, Binhao Wang, **Sheng Zhang**, Shanshan Ye, Wanyu Wang, Hongzhi Yin, Ruocheng Guo, Zenglin Xu. (2025). *FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation*. In *SIGKDD Conference on Knowledge Discovery and Data Mining* (***KDD***) (***CCF-A***).
 - [C9] Junyi Li, Xiaowei Qian, Yingyi Zhang, Wenlin Zhang, Guojing Li, **Sheng Zhang**, Xiao Han, Yichao Wang, Xiangyu Zhao. *Towards Pareto-Optimal Tool-Integrated Agents withPareto Ranking Policy Optimization*. *Forty-Third International Conference on Machine Learning* (***ICML Spotlight***)(***CCF-A***)
 - [P1] **Sheng Zhang**, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, Yingyi Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao. *R$^2$-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search*. *arXiv preprint arXiv:2606.28566*.
 
