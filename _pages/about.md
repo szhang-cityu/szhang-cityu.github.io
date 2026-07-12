@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) under the supervision of **Prof. Xiangyu Zhao**. Prior to his master's study, he received his M.Sc. degree at City University of Hong Kong under the guidance of **Prof. Xiangyu Zhao**, and received his B.Sc. degree from the University of Electronic Science and Technology of China (UESTC) under the guidance of **Prof. Jie Huang**. When working at the High Magnetic Field Laboratory of the Chinese Academy of Sciences, his research focused on the application of large language models and data-driven optimization of magnet array design. Currently, his research focus on Large Language Model (LLM) Agents, Sequential Recommender Systems, and AI for Science. 
+Sheng Zhang is a Ph.D. student at City University of Hong Kong (**CityUHK**) under the supervision of **Prof. Xiangyu Zhao**. Prior to his master's study, he received his M.Sc. degree at **CityUHK** under the guidance of **Prof. Xiangyu Zhao**, and received his B.Sc. degree from the University of Electronic Science and Technology of China (**UESTC**) under the guidance of **Prof. Jie Huang**. When working at the High Magnetic Field Laboratory of the Chinese Academy of Sciences, his research focused on the application of large language models and data-driven optimization of magnet array design. Currently, his research focus on Large Language Model (LLM) Agents, Sequential Recommender Systems, and AI for Science. 
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 Our paper, *Curriculum Learning for Efficient Chain-of-Thought Distillation via Structure-Aware Masking and GRPO* is accepted by SDM 2026! Congratulations to Bowen!
